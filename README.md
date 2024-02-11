@@ -1,4 +1,4 @@
-"# hackathon_vol14" 
+https://baristimer.onrender.com/
 # name
 BarisTimer
 ## Overview
@@ -11,5 +11,4 @@ https://baristimer.onrender.com/
 上記のURLに飛び、コーヒースケールを0にリセットしたのち、豆の種類を選んでください。
 ## Features
 使用技術はHTML,CSS,JavaScript,python,flaskです。
-[twitter](https://twitter.com/Kotabrog)
  

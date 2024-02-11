@@ -8,7 +8,7 @@ BarisTimer
 windows,VScode
 ## Usage
 https://baristimer.onrender.com/
-上記のURLに飛び、コーヒースケールを0にリセットしたのち、豆の種類を選んでください。
+左記のURLに飛び、コーヒースケールを0にリセットしたのち、豆の種類を選んでください。
 ## Features
 使用技術はHTML,CSS,JavaScript,python,flaskです。
  

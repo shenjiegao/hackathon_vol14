@@ -1,4 +1,4 @@
-https://baristimer.onrender.com/
+デプロイ先URL : https://baristimer.onrender.com/
 # name
 BarisTimer
 ## Overview
